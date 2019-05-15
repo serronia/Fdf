@@ -21,3 +21,6 @@ paramètre. Chaque nombre correspond à un point dans l’espace :</br>
 • La position horizontale correspond à son abscisse.</br>
 • La position verticale correspond à son ordonnée.</br>
 • La valeur correspond à son altitude.</br>
+
+###### Credits
+<a href=https://github.com/cmerel>cmerel</a>
